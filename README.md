@@ -11,7 +11,7 @@ A brick-breaker game written in C.
 make
 
 ## Run
-./final
+./dxball
 
 ## Setup notes
 - Keep the `resources` folder in the same directory as the program.
@@ -19,4 +19,4 @@ make
 - `highscores.txt` stores the high scores and must stay in the project folder.
 
 ## Controls
-- (Write your keys here, e.g. arrow keys to move the paddle)
+- (Write your keys here)
