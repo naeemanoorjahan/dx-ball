@@ -1,5 +1,5 @@
 CC  = gcc
-SRC = dxball_game.c
+SRC = dxball.c
 CFLAGS =
 
 UNAME_S := $(shell uname -s 2>/dev/null)
