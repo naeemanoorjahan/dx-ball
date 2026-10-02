@@ -1,4 +1,4 @@
-# DX_BALL
+# DX BALL
 
 A brick-breaker game written in C.
 
